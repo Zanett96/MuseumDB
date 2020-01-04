@@ -1,2 +1,2 @@
 # MuseumDB
-This is the project that I developed with a colleague of mine for the Database course. The database is complete with the SQL code for generate it, the ER scheme, the relational schema and the report I wrote. Note that the report is written in *italian*. 
+This is the project that I developed with a colleague of mine for the Database course. The database is complete with the SQL code for generate it, the ER scheme, the relational schema and the report I wrote. Note that the report is written in *italian*. The project is based over a musem where the target consumer is the visitor. Therefore, there's a complete overview of the artworks, their position in the museum, and a list of the guided visits which goes trough the museum with different languages.  
